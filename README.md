@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tanishpandey86/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanishpandey86/LeetCode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tanishpandey86/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tanishpandey86/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/tanishpandey86/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tanishpandey86/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/tanishpandey86/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanishpandey86/LeetCode/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tanishpandey86/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
