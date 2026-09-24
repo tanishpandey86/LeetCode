@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/tanishpandey86/LeetCode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tanishpandey86/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/tanishpandey86/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/tanishpandey86/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
