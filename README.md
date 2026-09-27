@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishpandey86/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/tanishpandey86/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/tanishpandey86/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanishpandey86/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanishpandey86/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanishpandey86/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tanishpandey86/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/tanishpandey86/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanishpandey86/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/tanishpandey86/LeetCode/tree/master/0567-permutation-in-string) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanishpandey86/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanishpandey86/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
