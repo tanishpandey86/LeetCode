@@ -1,25 +1,31 @@
 class Solution {
 public:
-    int minInsertions(string& s) {
-        int p=0, n=s.size(), k=0;
-        for(int i=0; i<n; i++){
-            char c=s[i];
-            if (c=='('){
-                p+=2;
-                if (p&1==1){
-                    k++;
-                    p--;
+    int minInsertions(string s) {
+        int n = s.length();
+        int result = 0;   // insertions needed
+        int count = 0;    // unmatched '(' so far
+        int i = 0;
+
+        while (i < n) {
+            if (s[i] == '(') {
+                count++;
+                i++;
+            } else {
+                // we have a ')'
+                if (i + 1 < n && s[i + 1] == ')') {
+                    i += 2;          // found a full "))"
+                } else {
+                    result++;        // missing second ')', insert one
+                    i++;
                 }
-            }
-            else{
-                p--;
-                if (p<0){
-                    k++;
-                    p+=2;
+
+                if (count > 0) {
+                    count--;         // this "))" closes one '('
+                } else {
+                    result++;        // no '(' to match, insert one
                 }
-               
             }
         }
-        return p+k;
+        return result + count * 2;   // each leftover '(' needs "))"
     }
 };
