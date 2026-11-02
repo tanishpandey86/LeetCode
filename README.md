@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanishpandey86/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishpandey86/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/tanishpandey86/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishpandey86/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanishpandey86/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/tanishpandey86/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tanishpandey86/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishpandey86/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tanishpandey86/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishpandey86/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishpandey86/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanishpandey86/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/tanishpandey86/LeetCode/tree/master/0043-multiply-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishpandey86/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishpandey86/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
